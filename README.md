@@ -20,7 +20,7 @@ An intelligent assistant designed to simplify programming by offering real-time 
 
 ## Getting Started
 
-AI Coding Assistant has been deployed here:
+AI Coding Assistant has been deployed here: https://aicodingassistant.streamlit.app/
 
 **HOW TO USE:**
 
