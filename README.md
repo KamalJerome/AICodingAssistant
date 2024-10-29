@@ -1,6 +1,6 @@
 # 🤖 AI Coding Assistant
 
-An intelligent assistant designed to simplify programming by offering real-time help on coding queries, giving precise answers, and generating code snippets to boost productivity. This assistant uses a hybrid Retrieval-Augmented Generation (RAG) model to analyze code files (`.py`, `.c`, `.cpp`, etc.) and answer questions based on the actual code content.
+An intelligent assistant designed to simplify programming by offering real-time help on coding queries, giving precise answers, and generating code snippets to boost productivity. This assistant uses a hybrid Retrieval-Augmented Generation (RAG) model to analyze code files (`.py`, `.c`, `.cpp`, etc.) and answer questions based on the code content.
 
 ## Key Features
 
