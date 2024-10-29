@@ -29,4 +29,6 @@ AI Coding Assistant has been deployed here: https://aicodingassistant.streamlit.
 3. Receive Code-Specific Answers: The assistant will respond with context-based answers, code snippets, or explanations, drawing information from the loaded code files.
 
 ## Demo Video
+[![Watch the video](https://img.youtube.com/vi/DcS94kOBI4U/maxresdefault.jpg)](https://youtu.be/DcS94kOBI4U)
 
+### [Watch this video on YouTube](https://youtu.be/DcS94kOBI4U)
