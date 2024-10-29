@@ -34,4 +34,4 @@ AI Coding Assistant has been deployed here: https://aicodingassistant.streamlit.
 ### [Watch this video on YouTube](https://youtu.be/DcS94kOBI4U)
 
 ## Creators
-V Kamal Jerome | Shakthireka Karthikeyan | Kopika M | Deepesh Raj AY | Ashirvad Janardanan
+V Kamal Jerome | Shakthireka Karthikeyan | Kopika M | Deepesh Raj AY | Ashirvad Janardanan V
